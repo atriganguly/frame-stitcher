@@ -18,7 +18,8 @@ curl -X POST "http://localhost:8080/v1/video/stitch/zip" \
   --output compiled_tape.mp4```
   
 ### Option 2: Array of URLs (Ideal for Cloud Integrations)
-```curl -X POST "http://localhost:8080/v1/video/stitch/urls" \
+```bash
+curl -X POST "http://localhost:8080/v1/video/stitch/urls" \
   -H "X-API-Key: your_secure_api_key_here" \
   -H "Content-Type: application/json" \
   -d '{
@@ -30,3 +31,4 @@ curl -X POST "http://localhost:8080/v1/video/stitch/zip" \
     "mse_threshold": 5.0
   }' \
   --output compiled_tape.mp4```
+---
