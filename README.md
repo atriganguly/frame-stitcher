@@ -4,16 +4,16 @@
 
 **An independent, state-free microservice dedicated to compiling high-speed JPEG telemetry streams into Constant Frame Rate (CFR) MP4 video tapes.**
 
-Created by [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+Created by [@atriganguly](https://github.com/atriganguly)
 
-[Repository](https://github.com/YourGitHubUsername/FrameStitcher) | [Live Demo](https://demo-url.com) | [Documentation](https://docs-url.com)
+[Repository](https://github.com/atriganguly/frame-stitcher) | [Live Demo](https://frame-stitcher.onrender.com/docs) | [Documentation](https://frame-stitcher.onrender.com/docs)
 
 </div>
 
 ---
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0--beta-blue)
 ![License](https://img.shields.io/badge/License-GPLv3-green)
 ![Language](https://img.shields.io/badge/Language-Python-informational)
 
@@ -152,7 +152,7 @@ System settings are managed independently of application logic through environme
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/YourGitHubUsername/FrameStitcher.git](https://github.com/YourGitHubUsername/FrameStitcher.git)
+   git clone [https://github.com/atriganguly/frame-stitcher.git](https://github.com/atriganguly/frame-stitcher.git)
    cd FrameStitcher
    ```
 
@@ -248,8 +248,8 @@ Autonomous LLMs, coding agents, and automated patch routines operating on this c
 
 This project is actively maintained to deliver reliable, open-source automation and execution infrastructure.
 
-* **Bug Reports & Feature Suggestions:** [Open an Issue](https://github.com/YourGitHubUsername/FrameStitcher/issues)
-* **Direct Enquiries:** Contact [@YourGitHubUsername](https://github.com/YourGitHubUsername) for technical questions, contributions, or pull request reviews.
+* **Bug Reports & Feature Suggestions:** [Open an Issue](https://github.com/atriganguly/support/)
+* **Direct Enquiries:** Contact [@atriganguly](https://github.com/atriganguly) for technical questions, contributions, or pull request reviews.
 
 ---
 
